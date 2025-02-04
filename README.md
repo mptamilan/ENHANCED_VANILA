@@ -11,7 +11,7 @@ modrinth:
 <img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/cached_images/3fc4c12061d8d10938f3fde808378328bb34fc5d.png">
 
 [![Discord](https://img.shields.io/badge/Discord-Server-%2300AF5C?style=for-the-badge&logo=discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/2sEahV9TXK)
-[![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/vanilla-texture-pack)
+[![Modrinth](https://img.shields.io/badge/On-Modrinth-%2300AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/resourcepack/vanilla-texture-pack)
 
 </center>
 
