@@ -4,7 +4,7 @@ modrinth:
   source_url: "https://github.com/mptamilan/Vanilla_Texture_Pack/"
   discord_url: "https://discord.gg/2sEahV9TXK"
 ---
-# Vanilla Texture Pack
+# Enchanced UI & Texture Pack
 
 <center>
 
